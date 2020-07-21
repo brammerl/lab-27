@@ -37,10 +37,10 @@ export default class Container extends Component {
         {
           userInfo ? <DisplayUser userInfo={userInfo}/> : <></>
         }
-        {/* {
+        {
           userRepos ? 
             <DisplayRepos userRepos={userRepos}/>: <></>
-        } */}
+        }
         
       </>
     )
