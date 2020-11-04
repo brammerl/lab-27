@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShortForm Component renders the short form component 1`] = `
+<form>
+  <WithStyles(ForwardRef(TextField))
+    label="Username"
+  />
+</form>
+`;

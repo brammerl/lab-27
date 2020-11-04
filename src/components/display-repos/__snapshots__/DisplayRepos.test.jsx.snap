@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DisplayRepos Component renders the display repo component 1`] = `
+<Fragment>
+  <h2>
+    Repositories
+  </h2>
+  <ul />
+</Fragment>
+`;

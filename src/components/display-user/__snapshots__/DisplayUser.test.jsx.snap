@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DisplayUser Component renders the display user component 1`] = `
+<Fragment>
+  <h1 />
+  <ul>
+    <li>
+      Followers: 
+    </li>
+    <li>
+      Following: 
+    </li>
+    <li>
+      <a>
+        Site
+      </a>
+    </li>
+  </ul>
+</Fragment>
+`;
